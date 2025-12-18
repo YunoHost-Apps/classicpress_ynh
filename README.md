@@ -18,6 +18,10 @@ lightweight, stable content management system
 <a href="https://github.com/YunoHost-Apps/classicpress_ynh/issues"><img height="100px" src="https://github.com/YunoHost/yunohost-artwork/raw/refs/heads/main/badges/neopossum-badges/badge_report_an_issue.svg"/></a>
 </div>
 
+
+## Screenshots
+![Screenshot of ClassicPress](./doc/screenshots/dashboard.png)
+
 ## 📦 Developer info
 
 [![Automatic tests level](https://apps.yunohost.org/badge/cilevel/classicpress)](https://ci-apps.yunohost.org/ci/apps/classicpress/)
